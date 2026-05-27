@@ -29,6 +29,8 @@ Desktop.ini
 *.out
 *.toc
 *.synctex.gz
+*.html
+*.pdf
 
 # Node (if PDF builder used)
 node_modules/
